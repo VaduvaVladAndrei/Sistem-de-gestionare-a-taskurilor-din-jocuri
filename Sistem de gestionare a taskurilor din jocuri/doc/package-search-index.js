@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dbmanagement"},{"l":"functions"},{"l":"gestionareprogresjocuri"},{"l":"objects"},{"l":"Test"}];updateSearchResults();
